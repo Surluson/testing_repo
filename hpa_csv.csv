@@ -1,0 +1,60 @@
+,Value,SubCategory,Category
+0,6.9,olfactory bulb,Brain
+1,7.8,amygdala,Brain
+2,11.7,basal ganglia,Brain
+3,20.5,thalamus,Brain
+4,13.0,midbrain,Brain
+5,16.7,pons,Brain
+6,22.4,medulla oblongata,Brain
+7,7.8,hippocampal formation,Brain
+8,14.1,spinal cord,Brain
+9,29.9,white matter,Brain
+10,19.9,cerebral cortex,Brain
+11,10.2,cerebellum,Brain
+12,14.6,choroid plexus,Brain
+13,19.1,hypothalamus,Brain
+14,2.6,retina,Eye
+15,23.2,thyroid gland,Endocrine tissues
+16,5.3,parathyroid gland,Endocrine tissues
+17,9.7,adrenal gland,Endocrine tissues
+18,9.1,pituitary gland,Endocrine tissues
+19,0.0,nasopharynx,Respiratory system
+20,0.0,bronchus,Respiratory system
+21,575.7,lung,Respiratory system
+22,0.0,oral mucosa,Proximal digestive tract
+23,33.9,salivary gland,Proximal digestive tract
+24,10.1,esophagus,Proximal digestive tract
+25,12.0,tongue,Proximal digestive tract
+26,284.8,stomach 1,Gastrointestinal tract
+27,152.4,colon,Gastrointestinal tract
+28,281.1,duodenum,Gastrointestinal tract
+29,180.6,rectum,Gastrointestinal tract
+30,767.2,small intestine,Gastrointestinal tract
+31,34304.0,liver,Liver & Gallbladder
+32,355.5,gallbladder,Liver & Gallbladder
+33,202.7,pancreas,Pancreas
+34,511.1,kidney,Kidney & Urinary bladder
+35,56.4,urinary bladder,Kidney & Urinary bladder
+36,3.0,testis,Male tissues
+37,5.3,epididymis,Male tissues
+38,12.7,prostate,Male tissues
+39,141.7,seminal vesicle,Male tissues
+40,9.1,vagina,Female tissues
+41,101.7,breast,Female tissues
+42,106.6,cervix,Female tissues
+43,42.7,endometrium 1,Female tissues
+44,22.6,fallopian tube,Female tissues
+45,5.5,ovary,Female tissues
+46,26.8,placenta,Female tissues
+47,12.2,heart muscle,Muscle tissues
+48,3.7,skeletal muscle,Muscle tissues
+49,76.4,smooth muscle,Muscle tissues
+50,0.0,soft tissue,Connective & Soft tissue
+51,49.6,adipose tissue,Connective & Soft tissue
+52,6.1,skin 1,Skin
+53,158.6,bone marrow,Bone marrow & Lymphoid tissues
+54,227.0,appendix,Bone marrow & Lymphoid tissues
+55,37.4,lymph node,Bone marrow & Lymphoid tissues
+56,316.1,spleen,Bone marrow & Lymphoid tissues
+57,15.2,thymus,Bone marrow & Lymphoid tissues
+58,25.4,tonsil,Bone marrow & Lymphoid tissues
