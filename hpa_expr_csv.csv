@@ -1,144 +1,93 @@
 ,Category,SubCategory1,SubCategory2,ProtExpr
 0,Connective & Soft tissue,Adipocytes,Adipose tissue,not detected
-1,Connective & Soft tissue,Chondrocytes,Soft tissue 1,not detected
-2,Connective & Soft tissue,Fibroblasts,Soft tissue 1,not detected
-3,Connective & Soft tissue,Peripheral nerve,Soft tissue 1,not detected
-4,Connective & Soft tissue,Fibroblasts,Soft tissue 2,not detected
-5,Connective & Soft tissue,Peripheral nerve,Soft tissue 2,not detected
-6,Endocrine tissues,Glandular cells,Adrenal gland,not detected
-7,Endocrine tissues,Glandular cells,Parathyroid gland,not detected
-8,Endocrine tissues,Glandular cells,Thyroid gland,not detected
-9,Bone marrow & Lymphoid tissues,Endocrine cells,Appendix,not detected
-10,Bone marrow & Lymphoid tissues,Enterocytes,Appendix,not detected
-11,Bone marrow & Lymphoid tissues,Enterocytes - Microvilli,Appendix,not detected
-12,Bone marrow & Lymphoid tissues,Germinal center cells,Appendix,not detected
-13,Bone marrow & Lymphoid tissues,Goblet cells,Appendix,not detected
-14,Bone marrow & Lymphoid tissues,Non-germinal center cells,Appendix,not detected
-15,Bone marrow & Lymphoid tissues,Hematopoietic cells,Bone marrow,not detected
-16,Bone marrow & Lymphoid tissues,Germinal center cells,Lymph node,not detected
-17,Bone marrow & Lymphoid tissues,Non-germinal center cells,Lymph node,not detected
-18,Bone marrow & Lymphoid tissues,Cells in red pulp,Spleen,not detected
-19,Bone marrow & Lymphoid tissues,Cells in white pulp,Spleen,not detected
-20,Bone marrow & Lymphoid tissues,Germinal center cells,Tonsil,not detected
-21,Bone marrow & Lymphoid tissues,Non-germinal center cells,Tonsil,not detected
-22,Bone marrow & Lymphoid tissues,Squamous epithelial cells,Tonsil,not detected
-23,Female tissues,Adipocytes,Breast,not detected
-24,Female tissues,Glandular cells,Breast,not detected
-25,Female tissues,Myoepithelial cells,Breast,not detected
-26,Female tissues,Glandular cells,Cervix,not detected
-27,Female tissues,Squamous epithelial cells,Cervix,not detected
-28,Female tissues,Cells in endometrial stroma,Endometrium 1,not detected
-29,Female tissues,Glandular cells,Endometrium 1,not detected
-30,Female tissues,Cells in endometrial stroma,Endometrium 2,not detected
-31,Female tissues,Glandular cells,Endometrium 2,not detected
-32,Female tissues,Glandular cells,Fallopian tube,not detected
-33,Female tissues,Follicle cells,Ovary,not detected
-34,Female tissues,Ovarian stroma cells,Ovary,not detected
-35,Female tissues,Decidual cells,Placenta,not detected
-36,Female tissues,Trophoblastic cells,Placenta,not detected
-37,Female tissues,Squamous epithelial cells,Vagina,not detected
-38,Respiratory system,Respiratory epithelial cells,Bronchus,not detected
-39,Respiratory system,Alveolar cells type I,Lung,high
-40,Respiratory system,Alveolar cells type II,Lung,high
-41,Respiratory system,Endothelial cells,Lung,high
-42,Respiratory system,Macrophages,Lung,high
-43,Respiratory system,Respiratory epithelial cells,Nasopharynx,not detected
-44,Brain,Glial cells,Caudate,not detected
-45,Brain,Neuronal cells,Caudate,not detected
-46,Brain,Cells in granular layer,Cerebellum,not detected
-47,Brain,Cells in molecular layer,Cerebellum,not detected
-48,Brain,Purkinje cells,Cerebellum,not detected
-49,Brain,Endothelial cells,Cerebral cortex,not detected
-50,Brain,Glial cells,Cerebral cortex,not detected
-51,Brain,Neuronal cells,Cerebral cortex,not detected
-52,Brain,Neuropil,Cerebral cortex,not detected
-53,Brain,Glial cells,Hippocampus,not detected
-54,Brain,Neuronal cells,Hippocampus,not detected
-55,Gastrointestinal tract,Endocrine cells,Colon,not detected
-56,Gastrointestinal tract,Endothelial cells,Colon,not detected
-57,Gastrointestinal tract,Enterocytes,Colon,not detected
-58,Gastrointestinal tract,Enterocytes - Microvilli,Colon,not detected
-59,Gastrointestinal tract,Fibroblasts,Colon,not detected
-60,Gastrointestinal tract,Goblet cells,Colon,not detected
-61,Gastrointestinal tract,Mucosal lymphoid cells,Colon,not detected
-62,Gastrointestinal tract,Peripheral nerve/ganglion,Colon,not detected
-63,Gastrointestinal tract,Endocrine cells,Duodenum,medium
-64,Gastrointestinal tract,Enterocytes,Duodenum,medium
-65,Gastrointestinal tract,Enterocytes - Microvilli,Duodenum,medium
-66,Gastrointestinal tract,Glands of Brunner,Duodenum,medium
-67,Gastrointestinal tract,Goblet cells,Duodenum,medium
-68,Gastrointestinal tract,Paneth cells,Duodenum,medium
-69,Gastrointestinal tract,Endocrine cells,Rectum,medium
-70,Gastrointestinal tract,Endothelial cells,Rectum,medium
-71,Gastrointestinal tract,Enterocytes,Rectum,medium
-72,Gastrointestinal tract,Enterocytes - Microvilli,Rectum,medium
-73,Gastrointestinal tract,Fibroblasts,Rectum,medium
-74,Gastrointestinal tract,Goblet cells,Rectum,medium
-75,Gastrointestinal tract,Mucosal lymphoid cells,Rectum,medium
-76,Gastrointestinal tract,Peripheral nerve/ganglion,Rectum,medium
-77,Gastrointestinal tract,Endocrine cells,Small intestine,medium
-78,Gastrointestinal tract,Enterocytes,Small intestine,medium
-79,Gastrointestinal tract,Enterocytes - Microvilli,Small intestine,medium
-80,Gastrointestinal tract,Goblet cells,Small intestine,medium
-81,Gastrointestinal tract,Paneth cells,Small intestine,medium
-82,Gastrointestinal tract,Glandular cells,Stomach 1,not detected
-83,Gastrointestinal tract,Glandular cells,Stomach 2,not detected
-84,Male tissues,Glandular cells,Epididymis,not detected
-85,Male tissues,Glandular cells,Prostate,not detected
-86,Male tissues,Glandular cells,Seminal vesicle,not detected
-87,Male tissues,Cells in seminiferous ducts,Testis,not detected
-88,Male tissues,Leydig cells,Testis,not detected
-89,Proximal digestive tract,Squamous epithelial cells,Esophagus,not detected
-90,Proximal digestive tract,Squamous epithelial cells,Oral mucosa,not detected
-91,Proximal digestive tract,Glandular cells,Salivary gland,not detected
-92,Liver & Gallbladder,Glandular cells,Gallbladder,not detected
-93,Liver & Gallbladder,Cholangiocytes,Liver,not detected
-94,Liver & Gallbladder,Hepatocytes,Liver,not detected
-95,Muscle tissues,Cardiomyocytes,Heart muscle,not detected
-96,Muscle tissues,Myocytes,Skeletal muscle,not detected
-97,Muscle tissues,Smooth muscle cells,Smooth muscle,not detected
-98,Kidney & Urinary bladder,Bowman's capsule,Kidney,medium
-99,Kidney & Urinary bladder,Cells in glomeruli,Kidney,medium
-100,Kidney & Urinary bladder,Collecting ducts,Kidney,medium
-101,Kidney & Urinary bladder,Distal tubules,Kidney,medium
-102,Kidney & Urinary bladder,Proximal tubules (cell body),Kidney,medium
-103,Kidney & Urinary bladder,Proximal tubules (microvilli),Kidney,medium
-104,Kidney & Urinary bladder,Urothelial cells,Urinary bladder,not detected
-105,Pancreas,Exocrine glandular cells,Pancreas,not detected
-106,Pancreas,Pancreatic endocrine cells,Pancreas,not detected
-107,Skin,Fibroblasts,Skin 1,not detected
-108,Skin,Keratinocytes,Skin 1,not detected
-109,Skin,Langerhans,Skin 1,not detected
-110,Skin,Melanocytes,Skin 1,not detected
-111,Skin,Epidermal cells,Skin 2,not detected
-112,Connective & Soft tissue,Adipocytes,Adipose tissue,not detected
-113,Connective & Soft tissue,Chondrocytes,Soft tissue 1,not detected
-114,Connective & Soft tissue,Fibroblasts,Soft tissue 1,not detected
-115,Connective & Soft tissue,Peripheral nerve,Soft tissue 1,not detected
-116,Connective & Soft tissue,Fibroblasts,Soft tissue 2,not detected
-117,Connective & Soft tissue,Peripheral nerve,Soft tissue 2,not detected
-118,Bone marrow & Lymphoid tissues,Endocrine cells,Appendix,not detected
-119,Bone marrow & Lymphoid tissues,Enterocytes,Appendix,not detected
-120,Bone marrow & Lymphoid tissues,Enterocytes - Microvilli,Appendix,not detected
-121,Bone marrow & Lymphoid tissues,Germinal center cells,Appendix,not detected
-122,Bone marrow & Lymphoid tissues,Goblet cells,Appendix,not detected
-123,Bone marrow & Lymphoid tissues,Non-germinal center cells,Appendix,not detected
-124,Bone marrow & Lymphoid tissues,Hematopoietic cells,Bone marrow,not detected
-125,Bone marrow & Lymphoid tissues,Germinal center cells,Lymph node,not detected
-126,Bone marrow & Lymphoid tissues,Non-germinal center cells,Lymph node,not detected
-127,Bone marrow & Lymphoid tissues,Cells in red pulp,Spleen,not detected
-128,Bone marrow & Lymphoid tissues,Cells in white pulp,Spleen,not detected
-129,Bone marrow & Lymphoid tissues,Germinal center cells,Tonsil,not detected
-130,Bone marrow & Lymphoid tissues,Non-germinal center cells,Tonsil,not detected
-131,Bone marrow & Lymphoid tissues,Squamous epithelial cells,Tonsil,not detected
-132,Liver & Gallbladder,Glandular cells,Gallbladder,not detected
-133,Liver & Gallbladder,Cholangiocytes,Liver,not detected
-134,Liver & Gallbladder,Hepatocytes,Liver,not detected
-135,Kidney & Urinary bladder,Bowman's capsule,Kidney,medium
-136,Kidney & Urinary bladder,Cells in glomeruli,Kidney,medium
-137,Kidney & Urinary bladder,Collecting ducts,Kidney,medium
-138,Kidney & Urinary bladder,Distal tubules,Kidney,medium
-139,Kidney & Urinary bladder,Proximal tubules (cell body),Kidney,medium
-140,Kidney & Urinary bladder,Proximal tubules (microvilli),Kidney,medium
-141,Kidney & Urinary bladder,Urothelial cells,Urinary bladder,not detected
-142,Eye,,,not detected
+1,Connective & Soft tissue,Fibroblasts,Soft tissue 1,medium
+2,Connective & Soft tissue,Peripheral nerve,Soft tissue 1,medium
+3,Connective & Soft tissue,Fibroblasts,Soft tissue 2,medium
+4,Connective & Soft tissue,Peripheral nerve,Soft tissue 2,medium
+5,Endocrine tissues,Glandular cells,Adrenal gland,medium
+6,Endocrine tissues,Glandular cells,Parathyroid gland,medium
+7,Endocrine tissues,Glandular cells,Thyroid gland,high
+8,Bone marrow & Lymphoid tissues,Glandular cells,Appendix,medium
+9,Bone marrow & Lymphoid tissues,Lymphoid tissue,Appendix,medium
+10,Bone marrow & Lymphoid tissues,Hematopoietic cells,Bone marrow,high
+11,Bone marrow & Lymphoid tissues,Germinal center cells,Lymph node,medium
+12,Bone marrow & Lymphoid tissues,Non-germinal center cells,Lymph node,medium
+13,Bone marrow & Lymphoid tissues,Cells in red pulp,Spleen,medium
+14,Bone marrow & Lymphoid tissues,Cells in white pulp,Spleen,medium
+15,Bone marrow & Lymphoid tissues,Germinal center cells,Tonsil,high
+16,Bone marrow & Lymphoid tissues,Non-germinal center cells,Tonsil,high
+17,Bone marrow & Lymphoid tissues,Squamous epithelial cells,Tonsil,high
+18,Female tissues,Adipocytes,Breast,medium
+19,Female tissues,Glandular cells,Breast,medium
+20,Female tissues,Myoepithelial cells,Breast,medium
+21,Female tissues,Glandular cells,Cervix,medium
+22,Female tissues,Squamous epithelial cells,Cervix,medium
+23,Female tissues,Cells in endometrial stroma,Endometrium 1,medium
+24,Female tissues,Glandular cells,Endometrium 1,medium
+25,Female tissues,Cells in endometrial stroma,Endometrium 2,high
+26,Female tissues,Glandular cells,Endometrium 2,high
+27,Female tissues,Ciliated cells (cell body),Fallopian tube,high
+28,Female tissues,Ciliated cells (cilia axoneme),Fallopian tube,high
+29,Female tissues,Ciliated cells (ciliary rootlets),Fallopian tube,high
+30,Female tissues,Ciliated cells (tip of cilia),Fallopian tube,high
+31,Female tissues,Non-ciliated cells,Fallopian tube,high
+32,Female tissues,Ovarian stroma cells,Ovary,low
+33,Female tissues,Trophoblastic cells,Placenta,high
+34,Female tissues,Squamous epithelial cells,Vagina,medium
+35,Respiratory system,Basal cells,Bronchus,high
+36,Respiratory system,Ciliated cells (cell body),Bronchus,high
+37,Respiratory system,Ciliated cells (cilia axoneme),Bronchus,high
+38,Respiratory system,Ciliated cells (ciliary rootlets),Bronchus,high
+39,Respiratory system,Ciliated cells (tip of cilia),Bronchus,high
+40,Respiratory system,Goblet cells,Bronchus,high
+41,Respiratory system,Alveolar cells,Lung,medium
+42,Respiratory system,Macrophages,Lung,medium
+43,Respiratory system,Basal cells,Nasopharynx,low
+44,Respiratory system,Ciliated cells (cell body),Nasopharynx,low
+45,Respiratory system,Ciliated cells (cilia axoneme),Nasopharynx,low
+46,Respiratory system,Ciliated cells (ciliary rootlets),Nasopharynx,low
+47,Respiratory system,Ciliated cells (tip of cilia),Nasopharynx,low
+48,Respiratory system,Goblet cells,Nasopharynx,low
+49,Brain,Glial cells,Caudate,medium
+50,Brain,Neuronal cells,Caudate,medium
+51,Brain,Cells in granular layer,Cerebellum,low
+52,Brain,Cells in molecular layer,Cerebellum,low
+53,Brain,Purkinje cells,Cerebellum,low
+54,Brain,Endothelial cells,Cerebral cortex,high
+55,Brain,Glial cells,Cerebral cortex,high
+56,Brain,Neuronal cells,Cerebral cortex,high
+57,Brain,Neuropil,Cerebral cortex,high
+58,Brain,Glial cells,Hippocampus,medium
+59,Brain,Neuronal cells,Hippocampus,medium
+60,Gastrointestinal tract,Endothelial cells,Colon,high
+61,Gastrointestinal tract,Glandular cells,Colon,high
+62,Gastrointestinal tract,Peripheral nerve/ganglion,Colon,high
+63,Gastrointestinal tract,Glandular cells,Duodenum,high
+64,Gastrointestinal tract,Glandular cells,Rectum,medium
+65,Gastrointestinal tract,Glandular cells,Small intestine,high
+66,Gastrointestinal tract,Glandular cells,Stomach 1,high
+67,Gastrointestinal tract,Glandular cells,Stomach 2,medium
+68,Male tissues,Glandular cells,Epididymis,medium
+69,Male tissues,Glandular cells,Prostate,medium
+70,Male tissues,Glandular cells,Seminal vesicle,medium
+71,Male tissues,Cells in seminiferous ducts,Testis,high
+72,Male tissues,Leydig cells,Testis,high
+73,Proximal digestive tract,Squamous epithelial cells,Esophagus,medium
+74,Proximal digestive tract,Squamous epithelial cells,Oral mucosa,not detected
+75,Proximal digestive tract,Glandular cells,Salivary gland,medium
+76,Liver & Gallbladder,Glandular cells,Gallbladder,high
+77,Liver & Gallbladder,Cholangiocytes,Liver,low
+78,Liver & Gallbladder,Hepatocytes,Liver,low
+79,Muscle tissues,Cardiomyocytes,Heart muscle,low
+80,Muscle tissues,Myocytes,Skeletal muscle,medium
+81,Muscle tissues,Smooth muscle cells,Smooth muscle,medium
+82,Kidney & Urinary bladder,Cells in glomeruli,Kidney,medium
+83,Kidney & Urinary bladder,Cells in tubules,Kidney,medium
+84,Kidney & Urinary bladder,Urothelial cells,Urinary bladder,medium
+85,Pancreas,Exocrine glandular cells,Pancreas,medium
+86,Pancreas,Pancreatic endocrine cells,Pancreas,medium
+87,Skin,Fibroblasts,Skin 1,medium
+88,Skin,Keratinocytes,Skin 1,medium
+89,Skin,Langerhans,Skin 1,medium
+90,Skin,Melanocytes,Skin 1,medium
+91,Skin,Epidermal cells,Skin 2,medium
