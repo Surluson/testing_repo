@@ -1,27 +1,27 @@
 ,Category,SubCategory1,SubCategory2,ProtExpr
-0,Connective & soft tissue,Adipocytes,Adipose tissue,not detected
-1,Connective & soft tissue,Chondrocytes,Soft tissue 1,not detected
-2,Connective & soft tissue,Fibroblasts,Soft tissue 1,not detected
-3,Connective & soft tissue,Peripheral nerve,Soft tissue 1,not detected
-4,Connective & soft tissue,Fibroblasts,Soft tissue 2,not detected
-5,Connective & soft tissue,Peripheral nerve,Soft tissue 2,not detected
+0,Connective & Soft tissue,Adipocytes,Adipose tissue,not detected
+1,Connective & Soft tissue,Chondrocytes,Soft tissue 1,not detected
+2,Connective & Soft tissue,Fibroblasts,Soft tissue 1,not detected
+3,Connective & Soft tissue,Peripheral nerve,Soft tissue 1,not detected
+4,Connective & Soft tissue,Fibroblasts,Soft tissue 2,not detected
+5,Connective & Soft tissue,Peripheral nerve,Soft tissue 2,not detected
 6,Endocrine tissues,Glandular cells,Adrenal gland,not detected
 7,Endocrine tissues,Glandular cells,Parathyroid gland,not detected
 8,Endocrine tissues,Glandular cells,Thyroid gland,not detected
-9,Bone marrow & lymphoid tissues,Endocrine cells,Appendix,not detected
-10,Bone marrow & lymphoid tissues,Enterocytes,Appendix,not detected
-11,Bone marrow & lymphoid tissues,Enterocytes - Microvilli,Appendix,not detected
-12,Bone marrow & lymphoid tissues,Germinal center cells,Appendix,not detected
-13,Bone marrow & lymphoid tissues,Goblet cells,Appendix,not detected
-14,Bone marrow & lymphoid tissues,Non-germinal center cells,Appendix,not detected
-15,Bone marrow & lymphoid tissues,Hematopoietic cells,Bone marrow,not detected
-16,Bone marrow & lymphoid tissues,Germinal center cells,Lymph node,not detected
-17,Bone marrow & lymphoid tissues,Non-germinal center cells,Lymph node,not detected
-18,Bone marrow & lymphoid tissues,Cells in red pulp,Spleen,not detected
-19,Bone marrow & lymphoid tissues,Cells in white pulp,Spleen,not detected
-20,Bone marrow & lymphoid tissues,Germinal center cells,Tonsil,not detected
-21,Bone marrow & lymphoid tissues,Non-germinal center cells,Tonsil,not detected
-22,Bone marrow & lymphoid tissues,Squamous epithelial cells,Tonsil,not detected
+9,Bone marrow & Lymphoid tissues,Endocrine cells,Appendix,not detected
+10,Bone marrow & Lymphoid tissues,Enterocytes,Appendix,not detected
+11,Bone marrow & Lymphoid tissues,Enterocytes - Microvilli,Appendix,not detected
+12,Bone marrow & Lymphoid tissues,Germinal center cells,Appendix,not detected
+13,Bone marrow & Lymphoid tissues,Goblet cells,Appendix,not detected
+14,Bone marrow & Lymphoid tissues,Non-germinal center cells,Appendix,not detected
+15,Bone marrow & Lymphoid tissues,Hematopoietic cells,Bone marrow,not detected
+16,Bone marrow & Lymphoid tissues,Germinal center cells,Lymph node,not detected
+17,Bone marrow & Lymphoid tissues,Non-germinal center cells,Lymph node,not detected
+18,Bone marrow & Lymphoid tissues,Cells in red pulp,Spleen,not detected
+19,Bone marrow & Lymphoid tissues,Cells in white pulp,Spleen,not detected
+20,Bone marrow & Lymphoid tissues,Germinal center cells,Tonsil,not detected
+21,Bone marrow & Lymphoid tissues,Non-germinal center cells,Tonsil,not detected
+22,Bone marrow & Lymphoid tissues,Squamous epithelial cells,Tonsil,not detected
 23,Female tissues,Adipocytes,Breast,not detected
 24,Female tissues,Glandular cells,Breast,not detected
 25,Female tissues,Myoepithelial cells,Breast,not detected
@@ -91,19 +91,19 @@
 89,Proximal digestive tract,Squamous epithelial cells,Esophagus,not detected
 90,Proximal digestive tract,Squamous epithelial cells,Oral mucosa,not detected
 91,Proximal digestive tract,Glandular cells,Salivary gland,not detected
-92,Liver & gallbladder,Glandular cells,Gallbladder,not detected
-93,Liver & gallbladder,Cholangiocytes,Liver,not detected
-94,Liver & gallbladder,Hepatocytes,Liver,not detected
+92,Liver & Gallbladder,Glandular cells,Gallbladder,not detected
+93,Liver & Gallbladder,Cholangiocytes,Liver,not detected
+94,Liver & Gallbladder,Hepatocytes,Liver,not detected
 95,Muscle tissues,Cardiomyocytes,Heart muscle,not detected
 96,Muscle tissues,Myocytes,Skeletal muscle,not detected
 97,Muscle tissues,Smooth muscle cells,Smooth muscle,not detected
-98,Kidney & urinary bladder,Bowman's capsule,Kidney,medium
-99,Kidney & urinary bladder,Cells in glomeruli,Kidney,medium
-100,Kidney & urinary bladder,Collecting ducts,Kidney,medium
-101,Kidney & urinary bladder,Distal tubules,Kidney,medium
-102,Kidney & urinary bladder,Proximal tubules (cell body),Kidney,medium
-103,Kidney & urinary bladder,Proximal tubules (microvilli),Kidney,medium
-104,Kidney & urinary bladder,Urothelial cells,Urinary bladder,not detected
+98,Kidney & Urinary bladder,Bowman's capsule,Kidney,medium
+99,Kidney & Urinary bladder,Cells in glomeruli,Kidney,medium
+100,Kidney & Urinary bladder,Collecting ducts,Kidney,medium
+101,Kidney & Urinary bladder,Distal tubules,Kidney,medium
+102,Kidney & Urinary bladder,Proximal tubules (cell body),Kidney,medium
+103,Kidney & Urinary bladder,Proximal tubules (microvilli),Kidney,medium
+104,Kidney & Urinary bladder,Urothelial cells,Urinary bladder,not detected
 105,Pancreas,Exocrine glandular cells,Pancreas,not detected
 106,Pancreas,Pancreatic endocrine cells,Pancreas,not detected
 107,Skin,Fibroblasts,Skin 1,not detected
